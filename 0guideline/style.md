@@ -15,7 +15,6 @@
 4. capitalize acronyms 'ID' , 'TV'
 
 5. dart: imports before other imports
-
    ex. 
    import 'dart:async';
    import 'dart:html';
