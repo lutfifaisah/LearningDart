@@ -2,7 +2,6 @@
 
    ex. Classes, enum types, typedefs, extensions, type parameters, 
 
-
 2. lowerCamelCase names capitalize the first letter of each word, except the first which is always   
    lowercase, even if it's an acronym.
 
